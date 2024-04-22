@@ -1,0 +1,1 @@
+window.location.replace("tela_inicial/index.html")
