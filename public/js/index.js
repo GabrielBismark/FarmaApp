@@ -1,1 +1,1 @@
-window.location.replace("tela_inicial/index.html")
+window.location.replace("../views/inicial.html")
